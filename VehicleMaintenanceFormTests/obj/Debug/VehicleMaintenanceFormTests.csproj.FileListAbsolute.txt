@@ -4,7 +4,6 @@ C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanc
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\nunit.engine.core.dll
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\testcentric.engine.metadata.dll
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\NUnit3.TestAdapter.dll
-C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\VehicleMaintenanceFormTests.dll.config
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\VehicleMaintenanceFormTests.dll
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\VehicleMaintenanceFormTests.pdb
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\Microsoft.ApplicationInsights.dll
@@ -128,8 +127,6 @@ C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanc
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\obj\Debug\VehicleMaintenanceFormTests.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\obj\Debug\VehicleMaintenanceFormTests.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\obj\Debug\VehicleMaintenanceFormTests.dll.config
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\obj\Debug\VehicleMaintenanceFormTests.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\obj\Debug\VehicleM.15B247E6.Up2Date
 C:\Users\Admin\Desktop\Drive D\SoftwareQualityAssuranceMidterm\VehicleMaintenanceForm\VehicleMaintenanceFormTests\obj\Debug\VehicleMaintenanceFormTests.dll

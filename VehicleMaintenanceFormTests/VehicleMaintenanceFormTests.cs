@@ -13,7 +13,13 @@ namespace VehicleMaintenanceFormTests
             var result = vehicle.GetModel();
             Assert.That(result, Is.EqualTo("Toyota Corola"));
         }
-
+        [Test]
+        public void TestKilometers_ZeroValue_ReturnsCorrectKilometers()
+        {
+            var vehicle = new Vehicle("Ford", 2022, 0);
+            var result = vehicle.GetKilometers();
+            Assert.That(result, Is.EqualTo(0));
+        }
         [Test]
         public void TestYear_ValidInput_ReturnsCorrectYear()
         {
@@ -37,5 +43,23 @@ namespace VehicleMaintenanceFormTests
             var result = vehicle.GetModel();
             Assert.That(result.Length, Is.LessThanOrEqualTo(15));
         }
+
+        [Test]
+        public void TestYear_YearInFuture_ReturnsCorrectYear()
+        {
+            var vehicle = new Vehicle("Honda", 2025, 20000);
+            var result = vehicle.GetYear();
+            Assert.That(result, Is.EqualTo(2025));
+        }
+
+        [Test]
+        public void TestModel_SpecialCharacters_ReturnsCorrectModel()
+        {
+            var vehicle = new Vehicle("Toyota@Corolla", 2022, 15000);
+            var result = vehicle.GetModel();
+            Assert.That(result, Is.EqualTo("Toyota@Corolla"));
+        }
+
+
     }
 }
