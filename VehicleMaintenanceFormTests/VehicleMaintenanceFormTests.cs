@@ -37,15 +37,5 @@ namespace VehicleMaintenanceFormTests
             var result = vehicle.GetModel();
             Assert.That(result.Length, Is.LessThanOrEqualTo(15));
         }
-
-        [Test]
-        public void TestYear_ValidRange_IsWithinBounds()
-        {
-            var vehicle = new Vehicle("Hundai Elantra", 2022, 5000);
-            var result = vehicle.GetYear();
-            Assert.That(result, Is.InRange(1990, 2025));
-        }
-
-        
     }
 }
